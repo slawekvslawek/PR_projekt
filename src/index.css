@@ -3,7 +3,7 @@ background: #132021 !important;
 }
 
 section{
-    padding: 25px;
+    padding: 20px;
 }
 
 .card{
@@ -13,6 +13,7 @@ section{
 .h1{
     color:#22d7e0;
     margin:30px;
+    margin-left:100px;
 }
 
 .butt{
@@ -24,7 +25,7 @@ section{
 }
 
 .searchbox{
-    width: 400%;
+    width: 100%;
     padding: 10px;
     margin:10px;
 }
@@ -46,6 +47,10 @@ section{
 
 .App{
     display: flex;
+}
+
+.in{
+    text-align:center;
 }
 
 .content{
