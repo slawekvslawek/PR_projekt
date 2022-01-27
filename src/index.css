@@ -12,7 +12,7 @@ section{
 
 .h1{
     color:#22d7e0;
-    margin:30px;
+    margin:200px;
     margin-left:100px;
 }
 
@@ -58,5 +58,26 @@ section{
     margin-right: 20px;
     padding: 50px;
     display: flex;
-    justify-content:center;
+    justify-content:'space-between';
+}
+.zalogowany{
+    color:#008B8B;
+    margin-right:-200px;
+}
+
+.test{
+    margin-top: 1em;
+}
+.card2{
+    width:400px;
+}
+.App3{
+    margin-top:150px;
+    margin-left:450px;
+}
+
+.Search{
+    display:flex;
+    width: 90%;
+    margin-left:55px;
 }
